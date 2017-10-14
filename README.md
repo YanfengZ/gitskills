@@ -1,2 +1,2 @@
 # gitskills
-For git leaening
+For git learning
